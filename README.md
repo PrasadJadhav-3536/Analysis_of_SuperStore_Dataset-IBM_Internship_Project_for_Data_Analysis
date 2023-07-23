@@ -2,7 +2,7 @@
 This project focuses on analyzing the SuperStore dataset, which contains sales data from a fictional retail store. The goal of the analysis is to gain insights into the store's performance and identify areas for improvement.
 
 # Project Summary
-1.Utilized the SuperStore dataset to conduct a comprehensive analysis of sales data.\n
+1.Utilized the SuperStore dataset to conduct a comprehensive analysis of sales data.
 2.Explored the dataset to understand its structure, variables, and data quality.
 3.Performed data cleaning and preprocessing to ensure accurate and reliable analysis results.
 4.Conducted exploratory data analysis (EDA) to uncover patterns, trends, and relationships in the sales data.
