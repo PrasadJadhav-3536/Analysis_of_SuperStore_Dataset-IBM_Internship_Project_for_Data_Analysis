@@ -21,5 +21,6 @@ This project focuses on analyzing the SuperStore dataset, which contains sales d
 9.Conducted statistical tests and visualizations to support findings and make data-driven recommendations.
 
 10.Summarized key findings and insights, providing actionable recommendations for improving the store's profitability and customer satisfaction.
+
       This project aims to provide valuable insights and recommendations to help optimize business operations and drive growth for the SuperStore. The analysis is based on thorough data exploration, statistical analysis, and visualization techniques, enabling stakeholders to make informed decisions to improve overall performance.
       
